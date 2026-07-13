@@ -1,4 +1,4 @@
-# GSA for CD8+ T Cell Dynamics in COVID-19 Model
+# GSA for Microglia Insulin Signaling Model
 
 Global sensitivity analysis (Sobol method) of microglia insulin signaling model.
 
